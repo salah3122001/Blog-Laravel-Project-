@@ -111,7 +111,7 @@ cd YOUR_REPOSITORY
    - Images in screenshots/ folder must match the filenames in the Markdown
 
 ## 🧑‍💻 Author
-    Mohamed Ashraf
+   **Mohamed Ashraf**
     📧 Email: mohamed_ashraf4444@hotmail.com
     🌐 GitHub: https://github.com/salah3122001     
     
