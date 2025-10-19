@@ -14,12 +14,12 @@
 
         @auth
             <a href="{{route('create_post')}}" class="btn btn-success mt-3">+ Create New Post</a>
-            <a href="{{route('show_post')}}" class="btn btn-success mt-3">+ Show Post</a>
+            <a href="{{route('show_post')}}" class="btn btn-success mt-3">+ Show Posts</a>
 
         @else
             <a href="{{ route('login') }}" class="btn btn-outline-primary mt-3">Login</a>
             <a href="{{ route('register') }}" class="btn btn-outline-secondary mt-3">Register</a>
-            <a href="{{route('show_post')}}" class="btn btn-success mt-3">+ Show Post</a>
+            <a href="{{route('show_post')}}" class="btn btn-success mt-3">+ Show Posts</a>
         @endauth
     </div>
 
